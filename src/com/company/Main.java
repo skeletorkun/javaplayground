@@ -6,8 +6,8 @@ public class Main {
 	// write your code here
     }
 
-    public static void println(Object s) {
-        System.out.println(String.valueOf(s));
-    }
+        public static void println(Object s) {
+            System.out.println(String.valueOf(s));
+        }
 
 }
